@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rocketseats/Modulo-1/tipo_variaveis/Tupla/Tupla.md",
+                "file": "Rocketseats/Modulo-1/tipo_variaveis/Dicionario/Dicionario.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tupla"
+              "title": "Dicionario"
             }
           }
         ]
@@ -172,8 +172,10 @@
   },
   "active": "544ce206249a4dab",
   "lastOpenFiles": [
-    "Rocketseats/Modulo-1/tipo_variaveis/Listas/Lista.md",
     "Rocketseats/Modulo-1/tipo_variaveis/Tupla/Tupla.md",
+    "Rocketseats/Modulo-1/tipo_variaveis/Dicionario/Dicionario.md",
+    "Rocketseats/Modulo-1/tipo_variaveis/Dicionario",
+    "Rocketseats/Modulo-1/tipo_variaveis/Listas/Lista.md",
     "Rocketseats/Modulo-1/tipo_variaveis/Tupla",
     "Rocketseats/Projeto",
     "Rocketseats/Modulo-1/tipo_variaveis/Listas",
@@ -196,7 +198,6 @@
     "Estudo-Python/Python Curso/Seção 2/Formatação de strings em Python.md",
     "Estudo-Python/Python Curso/Seção 3 - Tipos de dados/Conversão de numeros.md",
     "Estudo-Python/Python Curso/Seção 3 - Tipos de dados/O tipo String.md",
-    "Estudo-Python/Python Curso/Section 4 - Controle de fluxo do Python",
     "Estudo-Python/Python Curso/Seção 3 - Tipos de dados/Tipos booleanos.md",
     "Estudo-Python/Python Curso/Seção 3 - Tipos de dados/Tipo Numerico.md",
     "Estudo-Python/Python Curso/Seção 3 - Tipos de dados/Tipo Complexo.md",

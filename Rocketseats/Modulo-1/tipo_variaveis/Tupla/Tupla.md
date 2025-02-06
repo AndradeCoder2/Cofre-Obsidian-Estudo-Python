@@ -33,6 +33,19 @@ print(minha_tupla)
 
 ###  Método **count**  
 O Método *count* e utilizado para contar quantas vezes um determinado elemento aparece na tupla.
+ 
+```Python
+ print("Numero (3) foi exibido: ",minha_tupla.count(3)) 
+ # Saida: Numero (3) foi exibido: 2
+````
+### Metodo index 
+O Método index retorna o índice do primeiro elemento igual ao argumento fornecido. Se o elemento não existir na tupla, um erro e gerado.
+
+```Python
+indice = minha_tupla.index(3) print(indice) 
+# Saida: Indice da primeira ocorrencia do elemento 3: 2
+```
+como podemos ver, ele retorna qual e o índice do elemento que colocamos entre parênteses.
 
 
 
